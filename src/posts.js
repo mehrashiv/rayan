@@ -5,7 +5,7 @@ export const blogPosts = [
     title: "LEGO Robot",
     date: "2025-05-28",
     content: "My and dad I a built a LEGO robot...",
-    image: "legorobot.jpeg",
+    image: "legorobot.JPEG",
     tags: ["LEGO"]
   },
   {
