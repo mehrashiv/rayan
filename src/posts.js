@@ -5,7 +5,7 @@ export const blogPosts = [
     title: "LEGO Robot",
     date: "2025-05-28",
     content: "My and dad I a built a LEGO robot...",
-    image: "legorobot.JPEG",
+    image: "https://minio-api.rayanmehra.com/public/rayan/legorobot.JPEG",
     tags: ["LEGO"]
   },
   {
@@ -13,7 +13,7 @@ export const blogPosts = [
     title: "I am a super reader",
     date: "2025-05-22",
     content: "I read of bunch a books and then some more...",
-    image: "superreader.JPEG",
+    image: "https://minio-api.rayanmehra.com/public/rayan/superreader.JPEG",
     tags: ["School Stuff"]
   },
   
