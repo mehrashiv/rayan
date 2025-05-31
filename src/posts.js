@@ -5,7 +5,7 @@ export const blogPosts = [
     title: "My Eel drawing",
     date: "2025-05-30",
     content: "My drawing challenge for the week - Eel",
-    image: "https://minio-api.rayanmehra.com/public/rayan/IMG_8525.JPEG",
+    image: "https://minio-api.rayanmehra.com/public/rayan/IMG_8525.jpeg",
     tags: ["School Stuff"]
   },
   {
@@ -29,7 +29,7 @@ export const blogPosts = [
     title: "Read all my picture books",
     date: "2025-05-02",
     content: "For every book I read, I got a magnet. Check out all the books I read at school",
-    image: "https://minio-api.rayanmehra.com/public/rayan/IMG_8526.JPEG",
+    image: "https://minio-api.rayanmehra.com/public/rayan/IMG_8526.jpeg",
     tags: ["School Stuff"]
   },
   
