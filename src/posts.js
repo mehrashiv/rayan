@@ -1,7 +1,7 @@
 // posts.js - Blog posts data storage
 export const blogPosts = [
   {
-    id: 4,
+    id: 5,
     title: "My Eel drawing",
     date: "2025-05-30",
     content: "My drawing challenge for the week - Eel",
@@ -9,7 +9,7 @@ export const blogPosts = [
     tags: ["School Stuff"]
   },
   {
-    id: 3,
+    id: 4,
     title: "LEGO Robot",
     date: "2025-05-28",
     content: "My dad and I spent a whole weekend on this robot ",
@@ -17,7 +17,7 @@ export const blogPosts = [
     tags: ["LEGO"]
   },
   {
-    id: 2,
+    id: 3,
     title: "I am a super reader",
     date: "2025-05-22",
     content: "I finished all the picture books in my book reading challenge",
@@ -25,11 +25,19 @@ export const blogPosts = [
     tags: ["School Stuff"]
   },
   {
-    id: 1,
+    id: 2,
     title: "Read all my picture books",
     date: "2025-05-02",
     content: "For every book I read, I got a magnet. Check out all the books I read at school",
     image: "https://minio-api.rayanmehra.com/public/rayan/IMG_8526.jpeg",
+    tags: ["School Stuff"]
+  },
+  {
+    id: 1,
+    title: "How do I look?",
+    date: "2025-01-12",
+    content: "A portrait of me....",
+    image: "https://minio-api.rayanmehra.com/public/rayan/IMG_8527.jpeg",
     tags: ["School Stuff"]
   },
   
