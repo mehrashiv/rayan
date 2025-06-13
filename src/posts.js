@@ -28,7 +28,7 @@ export const blogPosts = [
     id: 2,
     title: "Read all my picture books",
     date: "2025-05-02",
-    content: "For every book I read, I got a magnet. Check out all the books I read at school. It was super fun"
+    content: "For every book I read, I got a magnet. Check out all the books I read at school. It was super fun",
     image: "https://minio-api.rayanmehra.com/public/rayan/IMG_8526.jpeg",
     tags: ["School Stuff"]
   },
