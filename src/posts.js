@@ -5,7 +5,7 @@ export const blogPosts = [
     title: "My Eel drawing",
     date: "2025-05-30",
     content: "My drawing challenge for the week - Eel",
-    image: "https://minio-api.rayanmehra.com/public/rayan/IMG_8525.jpeg",
+    image: "https://minio-api.shivmehra.com/public/rayan/IMG_8525.jpeg",
     tags: ["School Stuff"]
   },
   {
@@ -13,7 +13,7 @@ export const blogPosts = [
     title: "LEGO Robot",
     date: "2025-05-28",
     content: "My dad and I spent a whole weekend on this robot ",
-    image: "https://minio-api.rayanmehra.com/public/rayan/legorobot.JPEG",
+    image: "https://minio-api.shivmehra.com/public/rayan/legorobot.JPEG",
     tags: ["LEGO"]
   },
   {
@@ -21,7 +21,7 @@ export const blogPosts = [
     title: "I am a super reader",
     date: "2025-05-22",
     content: "I finished all the picture books in my book reading challenge",
-    image: "https://minio-api.rayanmehra.com/public/rayan/superreader.JPEG",
+    image: "https://minio-api.shivmehra.com/public/rayan/superreader.JPEG",
     tags: ["School Stuff"]
   },
   {
@@ -29,7 +29,7 @@ export const blogPosts = [
     title: "Read all my picture books",
     date: "2025-05-02",
     content: "For every book I read, I got a magnet. Check out all the books I read at school. It was super fun",
-    image: "https://minio-api.rayanmehra.com/public/rayan/IMG_8526.jpeg",
+    image: "https://minio-api.shivmehra.com/public/rayan/IMG_8526.jpeg",
     tags: ["School Stuff"]
   },
   {
@@ -37,7 +37,7 @@ export const blogPosts = [
     title: "How do I look?",
     date: "2025-01-12",
     content: "A portrait of me....",
-    image: "https://minio-api.rayanmehra.com/public/rayan/IMG_8527.jpeg",
+    image: "https://minio-api.shivmehra.com/public/rayan/IMG_8527.jpeg",
     tags: ["School Stuff"]
   },
   
